@@ -3,7 +3,7 @@
 Non commercial purpose
 
 Prerequisite :<br>
-apt install -y build-essential autoconf automake libxmu-dev python3 mercurial git qt5-default qt5-qmake cvs bzr gdb
+apt install -y git build-essential autoconf automake libxmu-dev python3 mercurial qt5-default qt5-qmake cvs bzr gdb
 
 
 
