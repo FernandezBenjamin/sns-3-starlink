@@ -3,13 +3,11 @@
 Non commercial purpose
 
 Prerequisite :<br>
-apt install -y git build-essential autoconf automake libxmu-dev python3 mercurial qt5-default qt5-qmake cvs bzr gdb
+```apt install -y git build-essential autoconf automake libxmu-dev python3 mercurial qt5-default qt5-qmake cvs bzr gdb```
 
 
 
 Command to use it :<br>
-git clone https://github.com/FernandezBenjamin/sns-3-starlink.git
-
+```git clone https://github.com/FernandezBenjamin/sns-3-starlink.git
 cd ns-allinone-3.30.1
-
 ./build.py
